@@ -1,5 +1,18 @@
-EESchema-LIBRARY Version 2.3  Date: 2017. dec. 10., vasárnap, 11.46.42 CET
+EESchema-LIBRARY Version 2.3  Date: 2018. máj.  6., vasárnap, 21.08.48 CEST
 #encoding utf-8
+#
+# AGND
+#
+DEF AGND #PWR 0 10 Y Y 1 F P
+F0 "#PWR" 0 0 40 H I C CNN
+F1 "AGND" 0 -70 50 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 4 0 1 0  -40 0  40 0  0 -40  -40 0 N
+X AGND 1 0 0 0 U 40 40 1 1 W N
+ENDDRAW
+ENDDEF
 #
 # CONN_12
 #
