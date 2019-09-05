@@ -1,7 +1,9 @@
 Short information
 -----------------
-MM2A * Analog three channels growing house controlling equipment
+MM1A * Analog three channels growing house controlling equipment
 Copyright (C) 2017 Pozsár Zsolt <pozsar.zsolt@.szerafingomba.hu>
-- Version: v170818
-- Licence: CC-BY-NC-4.0
+- Hardware version: v170818
+- Documentation version: 1.1
+- Documentation licence: CC-BY-NC-4.0
+- Documentation language: HU
 - Homepage: <http://www.szerafingomba.hu/equipments.html>
